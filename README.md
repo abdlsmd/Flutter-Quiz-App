@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+## 📸 App Preview
+<p align="center">
+  <img src="https://github.com/abdlsmd/Flutter-Quiz-App/blob/main/image%20(4).jpeg" width="250"/>
+  <img src="https://github.com/abdlsmd/Flutter-Quiz-App/blob/main/image%20(5).jpeg" width="250"/>
+  <img src="https://github.com/abdlsmd/Flutter-Quiz-App/blob/main/image%20(6).jpeg" width="250"/>
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
