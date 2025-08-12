@@ -4,9 +4,9 @@ A new Flutter project.
 
 ## 📸 App Preview
 <p align="center">
-  <img src="https://github.com/abdlsmd/Flutter-Quiz-App/blob/main/image%20(4).jpg" width="250"/>
-  <img src="https://github.com/abdlsmd/Flutter-Quiz-App/blob/main/image%20(5).jpg" width="250"/>
-  <img src="https://github.com/abdlsmd/Flutter-Quiz-App/blob/main/image%20(6).jpg" width="250"/>
+  <img src="https://github.com/abdlsmd/Flutter-Quiz-App/blob/main/image(4).jpg" width="250"/>
+  <img src="https://github.com/abdlsmd/Flutter-Quiz-App/blob/main/image(5).jpg" width="250"/>
+  <img src="https://github.com/abdlsmd/Flutter-Quiz-App/blob/main/image(6).jpg" width="250"/>
 </p>
 
 ## Getting Started
